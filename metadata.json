@@ -1,0 +1,5 @@
+{
+  "name": "Stock_Pricing",
+  "description": "A real-time simulated stock trading platform powered by Gemini AI for market analysis and insights.",
+  "requestFramePermissions": []
+}
